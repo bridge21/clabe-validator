@@ -353,6 +353,7 @@ var clabe = {
       [375, 'Pitillal'],
       [375, 'Puerto Vallarta'],
       [381, 'San Juan de los Lagos'],
+      [382, 'NA'],
       [384, 'San Miguel el Alto'],
       [385, 'San Patricio Melaque'],
       [386, 'Sayula'],
