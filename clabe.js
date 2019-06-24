@@ -111,7 +111,9 @@ var clabe = {
       143: 'Consultoría Internacional Banco',
       145: 'Banco BASE de I.B.M.',
       147: 'Bankaool, Institución de Banca Múltiple',
+      148: 'Pagatodo',
       150: 'Banco Inmobiliario Mexicano',
+      152: 'Bancrea',
       156: 'Banco Sabadell, S.A. I.B.M.',
       166: 'Banco del Ahorro Nacional y Servicios Financieros',
       168: 'Sociedad Hipotecaria Federal',
@@ -162,6 +164,7 @@ var clabe = {
       656: 'UNAGRA, S.A. de C.V., S.F.P.',
       659: 'Opciones Empresariales Del Noreste, S.A. DE C.V.',
       670: 'Libertad Servicios Financieros, S.A. De C.V.',
+      846: 'STP',
       901: 'CLS Bank International',
       902: 'SD. INDEVAL',
       999: 'NA'
