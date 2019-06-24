@@ -194,6 +194,7 @@ var clabe = {
       [ 68, 'Monclova'],
       [ 71, 'Nava'],
       [ 72, 'Nueva Rosita'],
+      [ 73, 'NA'],
       [ 74, 'Parras de la Fuente'],
       [ 75, 'Piedras Negras'],
       [ 76, 'Ramos Arizpe'],
