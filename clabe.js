@@ -260,6 +260,7 @@ var clabe = {
       [180, 'Tlalnepantla'],
       [190, 'Durango'],
       [198, 'NA'],
+      [199, 'NA'],
       [201, 'Tepehuanes'],
       [202, 'Vicente Guerrero'],
       [210, 'Guanajuato'],
