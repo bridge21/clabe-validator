@@ -91,6 +91,7 @@ var clabe = {
       112: 'Banco Monex',
       113: 'Banco Ve por Mas',
       116: 'ING Bank (México)',
+      221: 'N/A',
       124: 'Deutsche Bank México',
       126: 'Banco Credit Suisse (México)',
       127: 'Banco Azteca',
